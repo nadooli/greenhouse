@@ -44,12 +44,12 @@ class Services:
             run_for = int(db.query_one("SELECT value from config WHERE key = 'pump_run_for'")[0])
             touch = db.query_one("SELECT value, MAX(date) from readings WHERE sensor = 'TOUCH' and valueType = 'moisture'")[0]
             pump_on = int(db.query_one("SELECT value from config WHERE key = 'pump_on'")[0])
-        if touch < pump_on and GPIO.input(pin) == 1:
+        if touch < pump_on:
             await Services.turnDevice('Pump', 'On')
             while touch < pump_on and index <= 19:
                 index += 1
                 await asyncio.sleep(run_for)
-                touch, temp = await Touch.getMoistureAndTemp()
+                touch, temp = await Touch.getMoistureAndTemp('TOUCH')
             await Services.turnDevice('Pump', 'Off')
         return run_for * index            
             

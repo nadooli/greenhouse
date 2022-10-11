@@ -1,0 +1,299 @@
+2022-10-03 21:45:14,222 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-03 21:55:15,299 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 00:31:48,948 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 00:51:51,353 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 01:31:56,741 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 02:12:02,162 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 02:42:06,243 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 02:52:07,602 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 03:22:11,841 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 03:22:12,209 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 04:22:20,000 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 04:32:21,397 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 04:52:24,220 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 05:02:25,631 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 06:02:33,941 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 06:12:35,281 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 06:22:36,709 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 07:12:43,639 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 07:32:46,795 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 07:42:47,780 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 07:52:49,182 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 08:32:54,871 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 09:13:00,322 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 09:23:01,652 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 09:33:03,054 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 09:53:05,781 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 10:03:07,186 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 10:13:08,495 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 10:13:08,861 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 10:33:11,409 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 11:23:18,051 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 17:15:49,454 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 17:25:50,796 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 17:35:52,161 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 17:45:53,481 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 17:55:54,848 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 18:15:57,583 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 18:25:59,001 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 20:06:12,750 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-04 20:26:15,491 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 20:46:18,192 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 20:46:18,572 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 21:06:21,059 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 21:16:22,382 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 21:36:25,152 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 23:23:56,670 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-04 23:33:58,091 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 00:14:03,680 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 01:04:10,652 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 01:14:12,059 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 01:24:13,414 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 01:34:14,849 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 02:24:21,842 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 02:24:22,212 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 02:34:23,202 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 03:24:30,262 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 04:24:38,450 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 04:34:39,860 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 04:44:41,646 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 04:54:42,689 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 04:54:43,059 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 06:04:52,320 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 06:24:55,112 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 06:34:56,432 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 06:54:59,193 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 07:45:06,302 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 08:35:13,329 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 08:45:14,642 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 08:55:16,411 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 09:05:17,488 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 09:15:18,854 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 09:55:24,450 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 10:15:27,150 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 10:25:28,472 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 10:55:32,603 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 11:35:38,180 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 12:05:42,261 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 12:35:46,341 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 13:05:50,342 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 13:15:51,670 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 13:39:58,934 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 14:00:01,743 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 14:00:02,111 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 14:10:03,153 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 14:20:04,573 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 14:20:04,940 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 15:00:10,139 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 15:10:11,460 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 15:20:12,871 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 15:40:15,617 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 15:50:16,992 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 16:10:19,766 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 16:10:20,131 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 16:30:22,831 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 16:40:23,872 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 16:50:25,293 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 16:50:25,662 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 17:00:27,082 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 17:10:28,035 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 17:50:33,752 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 18:00:35,162 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 18:10:36,960 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 18:20:38,006 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 18:50:42,283 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 18:50:42,651 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 19:20:46,462 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 19:30:47,878 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 19:30:48,245 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 20:00:52,082 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 20:20:54,989 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 20:40:57,830 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 20:50:59,240 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 21:01:00,563 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 21:01:00,929 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 21:11:01,972 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 21:21:03,398 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 21:31:04,730 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 21:41:06,050 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 22:21:11,532 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-05 22:31:13,241 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 23:11:18,412 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-05 23:41:22,531 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 00:31:29,485 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 01:21:36,741 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 01:31:37,792 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 01:51:41,061 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 02:01:42,082 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 02:11:43,471 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 02:11:43,835 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 03:01:50,382 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 03:21:53,250 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 03:31:54,659 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 03:41:56,081 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 04:32:02,959 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 04:42:04,651 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 04:52:05,622 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 05:02:06,951 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 05:12:08,743 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 05:32:11,559 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 05:52:14,010 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 06:02:15,361 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 06:32:19,591 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 07:32:28,200 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 07:32:28,726 - ERROR - devices - 	 Seesaw hardware ID returned (0xd5) is not correct! Expected 0x55 or 0x87. Please check your wiring.
+2022-10-06 08:02:31,860 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 08:22:34,700 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 10:12:50,150 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 11:22:59,402 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 11:33:00,802 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 11:43:02,219 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 11:53:03,630 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 12:33:09,112 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 12:33:09,483 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 12:53:11,876 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 13:03:13,205 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 13:13:14,660 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 13:23:16,061 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 13:33:17,469 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 13:43:18,869 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 13:53:20,280 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 14:23:24,300 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 14:33:25,715 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 14:43:27,048 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 14:53:28,461 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 15:23:33,030 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 15:53:36,812 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 16:03:38,232 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 16:13:39,571 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 16:23:40,989 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 16:33:42,324 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 16:53:45,419 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 17:03:46,386 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 17:23:49,236 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 17:33:50,650 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 17:33:51,016 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 17:43:52,062 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 17:53:53,421 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 18:03:55,182 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 18:13:56,222 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 18:23:57,690 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 19:34:07,479 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 19:44:09,272 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 19:54:10,311 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 20:04:11,712 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 20:14:13,031 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 20:34:15,791 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 20:44:17,201 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 20:54:18,614 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 21:04:20,072 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 21:14:21,489 - ERROR - devices - 	 Exception: Received unplausible data. Try again.
+2022-10-06 22:04:28,561 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 22:54:35,353 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 23:04:36,690 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-06 23:34:40,701 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-06 23:54:43,909 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 00:04:44,871 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 00:14:46,333 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 00:34:49,211 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 01:04:53,665 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 01:24:56,074 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 01:44:58,912 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 02:05:01,679 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 02:35:05,780 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 02:45:07,192 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 02:55:08,619 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 03:25:12,802 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 03:45:15,969 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 03:55:17,061 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 04:05:18,399 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 04:15:19,818 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 04:25:21,232 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 04:35:22,560 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 04:55:25,352 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 05:15:28,092 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 05:25:29,479 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 05:35:30,797 - ERROR - devices - 	 Exception: Received unplausible data. Try again.
+2022-10-07 05:45:32,151 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 05:55:33,553 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 06:15:36,361 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 06:35:39,222 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 07:35:47,742 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-07 07:45:48,796 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 08:15:52,983 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-07 09:16:01,519 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 10:32:15,409 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 10:42:16,826 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 11:02:19,607 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 11:12:21,031 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 11:42:25,558 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 12:52:34,666 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 13:02:35,987 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 13:22:38,764 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 13:52:42,918 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 14:12:45,766 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 14:22:47,185 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 14:52:51,267 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 14:52:51,638 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 16:03:00,867 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 16:13:02,277 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 16:23:03,692 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 16:33:05,021 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 16:43:06,876 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 16:53:07,927 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 16:53:08,296 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 17:03:09,287 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 17:43:14,880 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 17:43:15,249 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 17:53:16,235 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 18:03:17,660 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 18:43:23,286 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 19:13:27,465 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 19:43:31,736 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 19:53:33,529 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 20:03:34,477 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 20:23:37,288 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 20:43:40,134 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 21:53:49,821 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:03:51,162 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 22:13:52,547 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 22:13:53,497 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:13:53,857 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:13:54,223 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:13:54,839 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:13:56,175 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:13:57,525 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:13:58,842 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:00,154 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:01,489 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:02,805 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:04,123 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:04,479 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:14:05,469 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:06,792 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:08,142 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:08,506 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:14:09,457 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:10,775 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:12,112 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:12,474 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:14:13,429 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:14,754 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:15,112 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:14:16,064 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:17,387 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:14:17,743 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 22:14:18,692 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:20:55,380 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:20:56,728 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:20:58,040 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:20:59,342 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:21:00,726 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:21:02,034 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:21:03,376 - ERROR - main - 	 name 'pin' is not defined
+2022-10-10 22:24:32,592 - ERROR - main - 	 getMoistureAndTemp() missing 1 required positional argument: 'sensor'
+2022-10-10 22:24:32,948 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 22:39:28,796 - ERROR - devices - 	 Exception: Checksum did not validate. Try again.
+2022-10-10 23:09:33,067 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 23:19:34,435 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
+2022-10-10 23:29:35,826 - ERROR - devices - 	 Exception: A full buffer was not returned. Try again.
