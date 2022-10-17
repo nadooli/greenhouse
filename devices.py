@@ -19,7 +19,7 @@ class Relays:
         try:
             logger.info("Set GPIO setmode to BCM")
             GPIO.setmode(GPIO.BCM)
-            pin_list=[5,6,13,16,19,20,26]
+            pin_list=[5,6,13,16,19,20,21,26]
             
             logger.info("Set all GPIO output Off")
             for pin in pin_list:
